@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T09:14:09.708Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="5tL7v1WlUYIyDIJBJCUr" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T09:27:04.329Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="VC8STWXsE2EejLDGa1pH" version="21.0.6" type="github">
   <diagram name="Página-1" id="TAp2GsE01xnfV-GOAAfx">
-    <mxGraphModel dx="2261" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="414" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-2" value="Fotos Ordenadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1310" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-4" target="xHVBZaWWuP-A75dY590X-24">
           <mxGeometry relative="1" as="geometry">
@@ -46,13 +46,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-14" value="Encontrar o crear directorio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-16" target="xHVBZaWWuP-A75dY590X-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-16" value="Mover fotos a la carpeta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-22" target="xHVBZaWWuP-A75dY590X-24">
           <mxGeometry relative="1" as="geometry">
@@ -60,16 +60,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-22" value="Tomar fecha del nombre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="380" width="120" height="70" as="geometry" />
+          <mxGeometry x="650" y="410" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-24" target="xHVBZaWWuP-A75dY590X-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-24" value="Crear nuevo nombre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xHVBZaWWuP-A75dY590X-28" value="Como saber que un exifr no está bien colocado?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="100" width="340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-31" target="xHVBZaWWuP-A75dY590X-44">
           <mxGeometry relative="1" as="geometry">
@@ -114,28 +111,118 @@
         <mxCell id="xHVBZaWWuP-A75dY590X-40" value="Detectar grupo de archivos con un formato en el nombre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="803" y="117" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-44" target="xHVBZaWWuP-A75dY590X-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="800" />
+              <mxPoint x="575" y="800" />
+              <mxPoint x="575" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-68" value="todo correcto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-67">
+          <mxGeometry x="-0.0977" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-44" target="xHVBZaWWuP-A75dY590X-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-71" value="algo incorrecto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-70">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-44" value="Mostrar simulador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-45" target="xHVBZaWWuP-A75dY590X-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-76" value="misma carpeta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-75">
+          <mxGeometry x="-0.2444" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-45" target="xHVBZaWWuP-A75dY590X-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-79" value="ordenar carpetas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-78">
+          <mxGeometry x="-0.4768" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-45" value="¿Quieres ordenar por carpetas o en la misma carpeta?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-46" target="xHVBZaWWuP-A75dY590X-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990" y="740" />
-              <mxPoint x="990" y="530" />
+              <mxPoint x="1120" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-46" value="Crear nombre LastModifiedDate or CreationDate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-53" target="xHVBZaWWuP-A75dY590X-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-64" value="si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-56">
+          <mxGeometry x="-0.135" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-53" target="xHVBZaWWuP-A75dY590X-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-65" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xHVBZaWWuP-A75dY590X-62">
+          <mxGeometry x="0.235" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xHVBZaWWuP-A75dY590X-53" value="Se tiene clara la fecha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-63" target="xHVBZaWWuP-A75dY590X-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-63" value="Algoritmo heurístico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-69" target="xHVBZaWWuP-A75dY590X-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-69" value="Opción para seleccionar photos que no están bien ordenadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-73" target="xHVBZaWWuP-A75dY590X-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-73" value="Crear forma de posicionamiento manual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHVBZaWWuP-A75dY590X-77" target="xHVBZaWWuP-A75dY590X-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1000" />
+              <mxPoint x="660" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHVBZaWWuP-A75dY590X-77" value="Renombrar photos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
